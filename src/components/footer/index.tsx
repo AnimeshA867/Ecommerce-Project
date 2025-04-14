@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="site-footer__top">
           <div className="site-footer__description">
             <h6>
-              <span>Animesh Acharya</span>
+              <span>Sasto.com</span>
             </h6>
             <p>
               Welcome to our e-commerce platform. We offer a wide range of
